@@ -15,3 +15,9 @@
 body{
     background-color: #598392;
 }
+h1{
+    font-size: 8vh;
+    display: flex;
+    justify-content: center;
+
+}
