@@ -19,5 +19,7 @@ h1{
     font-size: 8vh;
     display: flex;
     justify-content: center;
-
+    color: white;
+    text-shadow: 2px 2px purple;
+    margin-top: 5vh;
 }
