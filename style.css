@@ -42,3 +42,8 @@ h1{
     background-color: cadetblue;
     width: 50%;
 }
+
+.left_container h4{
+    display: flex;
+    font-size: 20px;
+}
