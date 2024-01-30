@@ -30,3 +30,9 @@ h1{
     color: #9DD9D2;
     font-size: 4vh;
 }
+.main_div{
+    display: flex;
+    margin-top: 10vh;
+    width: 80%;
+    margin-left: 15vh;
+}
