@@ -46,4 +46,8 @@ h1{
 .left_container h4{
     display: flex;
     font-size: 20px;
+    margin: 3vh;
+    color: white;
+    text-shadow: 2px 2px black;
+    justify-content: center;
 }
