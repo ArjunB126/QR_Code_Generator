@@ -55,4 +55,10 @@ h1{
 .left_container input{
     display: flex;
     margin-left: 3vh;
-
+    margin-top: 5vh;
+    width: 87%;
+    height: 8vh;
+    border: none;
+    border-radius: 20px;
+    padding-left: 20px
+}
