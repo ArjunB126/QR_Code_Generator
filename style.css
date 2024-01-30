@@ -68,5 +68,8 @@ button{
     height: 8vh;
     width: 90%;
     margin-top: 3vh;
-
+    margin-left: 3vh;
+    border-radius: 20px;
+    background-color: #9DD9D2;
+    border: none; 
 }
