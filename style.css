@@ -36,3 +36,9 @@ h1{
     width: 80%;
     margin-left: 15vh;
 }
+
+.left_container{
+
+    background-color: cadetblue;
+    width: 50%;
+}
