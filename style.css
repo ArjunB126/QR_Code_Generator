@@ -62,3 +62,11 @@ h1{
     border-radius: 20px;
     padding-left: 20px
 }
+
+button{
+
+    height: 8vh;
+    width: 90%;
+    margin-top: 3vh;
+
+}
