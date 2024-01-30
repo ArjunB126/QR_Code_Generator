@@ -51,3 +51,8 @@ h1{
     text-shadow: 2px 2px black;
     justify-content: center;
 }
+
+.left_container input{
+    display: flex;
+    margin-left: 3vh;
+
