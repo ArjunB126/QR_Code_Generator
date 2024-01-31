@@ -100,5 +100,6 @@ img{
 footer {
     display: flex;
     justify-content: center;
-;
+    margin-top: 5vh;
+    color: #9DD9D2;
 }
