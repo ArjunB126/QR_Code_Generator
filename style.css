@@ -93,5 +93,6 @@ img{
 #qr_img{
     height: 200px;
     margin-left: 230px;
-
+    margin-top: 20px;
+    margin-left: 25vh;    
 }
