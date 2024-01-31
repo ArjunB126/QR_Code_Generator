@@ -80,3 +80,8 @@ button:hover{
     background-color: #01161E;
     color: white;
 }
+
+.right_container{
+    margin-left: 5vh;
+    width: 50%;
+}
