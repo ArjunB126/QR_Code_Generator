@@ -96,3 +96,9 @@ img{
     margin-top: 20px;
     margin-left: 25vh;    
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+;
+}
