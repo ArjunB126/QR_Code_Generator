@@ -13,6 +13,11 @@ function generateQr ()
        imgBox.classList.add("show_img");
     
    }
+   
+   else
+     {
+        alert ("Please enter some text to generate a QR code");
+     }
 
 
 
