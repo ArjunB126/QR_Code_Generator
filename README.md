@@ -6,4 +6,10 @@ This handy tool allows you to generate QR codes for any link, text, or data you 
 
 ## What is a QR Code?
 
-QR (Quick Response) codes are two-dimensional barcodes that can store various types of data, such as URLs, text, contact information, and more. They have become increasingly popular due to their convenience and versatility in quickly transferring 
+QR (Quick Response) codes are two-dimensional barcodes that can store various types of data, such as URLs, text, contact information, and more. They have become increasingly popular due to their convenience and versatility in quickly transferring information.
+
+## Features
+
+- Generate QR codes for any link, text, or data.
+- Screen Shot the generated QR code as an image for easy sharing.
+- Easy-to-use interface with intuitive controls.
