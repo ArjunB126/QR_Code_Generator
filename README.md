@@ -14,14 +14,19 @@ QR (Quick Response) codes are two-dimensional barcodes that can store various ty
 - Screen Shot the generated QR code as an image for easy sharing.
 - Easy-to-use interface with intuitive controls.
 
-  ## How to Use
+## How to Use
 
 1. Enter the link, text, or data you want to encode into a QR code.
 2. Click on the "Generate" button to create your QR code.
 3. Screen Shot the QR code image and share it wherever you like!
 
-   ## Why Use This Generator?
+## Why Use This Generator?
 
 - **Versatility**: Generate QR codes for any type of data.
 - **User-Friendly**: Simple and intuitive interface makes it easy for anyone to use.
 - **Fast and Efficient**: Quickly generate QR codes in just a few clicks.
+
+
+## Get Started
+
+Ready to start generating QR codes? Simply clone this repository and open the `index.html` file in your web browser. No installation required!
